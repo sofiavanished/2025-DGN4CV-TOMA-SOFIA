@@ -1,0 +1,30 @@
+main{width: 80%;
+display: inline-block;
+text-align: left;
+}
+
+.premios{  
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+.textopremiosganados {
+    display: inline-block;
+    width:50%;
+    justify-content: left;
+}
+.fotopremio {
+    display: inline-block;
+    padding: 8px;             
+}
+h3{
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+footer{
+    margin-top: 20px;
+}

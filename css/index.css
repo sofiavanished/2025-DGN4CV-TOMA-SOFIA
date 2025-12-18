@@ -1,0 +1,32 @@
+body {    
+    background-color: hsla(0, 0%, 0%, 1);
+    background-image: radial-gradient(circle at 85% 80%, hsla(266.99999999999983, 0%, 6%, 1) 9%, transparent 55%), radial-gradient(circle at 60% 24%, hsla(336.0000000000001, 0%, 5%, 1) 5%, transparent 72%), radial-gradient(circle at 13% 82%, hsla(0, 0%, 24%, 0.49) 5%, transparent 52%), radial-gradient(circle at 24% 7%, hsla(298.99999999999994, 0%, 16%, 1) 13%, transparent 68%);
+    background-blend-mode: normal, normal, normal, normal;
+}
+main{
+    background-color: black;
+    font-family: "Roboto", sans-serif;
+    width: 80%;
+    display: inline-block;
+    text-align: left;  
+}
+.textillo{
+    padding-left: 40px;
+    padding-right: 30px;
+
+
+}
+.poster {
+    padding: none;
+}
+article{
+    color: lightsteelblue;
+      font-weight: 00;
+      margin-bottom: 30px;
+}
+.escala16-9{
+    aspect-ratio: 16/9;
+}
+.video{
+text-align: center;
+}

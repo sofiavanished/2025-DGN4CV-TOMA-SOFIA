@@ -1,0 +1,42 @@
+img{
+    display: inline-block;
+}
+main{
+    width: 80%;
+    display: inline-block;
+    text-align: left;
+    font-family: "Roboto", sans-serif;
+
+}
+h2{
+    font-size: 30px;
+}
+.personaje img{
+    width: 100%;
+    display: block; 
+}
+.personaje:hover{
+    box-shadow: 0 0 25px grey;
+    scale: 1.05;
+}        
+article {
+    background-color: #252525;      
+}
+div{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+
+}
+.textopersonajes{
+    display: flex;
+    justify-content: left;
+    padding: 20px;
+}
+.descripcion {
+    transition: transform 0.3s ease;
+}
+
+.descripcion:active {
+    transform: translateY(20px); 
+}
